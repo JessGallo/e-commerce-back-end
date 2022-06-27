@@ -33,3 +33,6 @@ The final animation shows the POST, PUT, and DELETE routes for categories being 
 ![mock-up-gif](assets/images/mock-up3.gif)
 
 ## Walkthrough Video
+
+Part 1: https://drive.google.com/file/d/1Wku_wXVAPO5h8JlJr6dWPYjkEb-rytfw/view
+Part 2: https://drive.google.com/file/d/16Xcgs8GmlJoJgObPRSzwAdA6-ZfhDJRm/view
